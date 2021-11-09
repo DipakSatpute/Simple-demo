@@ -6,30 +6,7 @@
 2)https://document.online-convert.com/convert/html-to-pdf .
   This Converts html using url into pdf and we can download that file.by using our url it will shows 10 pages,but it takes some time to download file.
 
-3)https://avepdf.com/html-to-pdf .  
-  It shows our url data in 7 Pages
 
-4)https://pdfmyurl.com/plans     paid site
-
-5)https://allinpdf.com/url-to-pdf .
-It shows our url data in 11 Pages. and https://en.wikipedia.org/wiki/Module:Buffer this url shows 33 pages of pdf
-
-6)https://webpagetopdf.com/   
- It shows our url data in 10 Pages.
-
-7)https://www.html-to-pdf.net/free-online-pdf-converter.aspx. 
- It shows our url data in 10 Pages.
-
-
-
-URL=https://apps.kairee.in/MFMUAT/Administration/WebPages/taxinvoice_ml.aspx?BookingId=
-193769&type=1
-
-
-
-https://www.syncfusion.com/pdf-framework/net?utm_source=YouTube&utm_medium=video&utm_campaign=htmlvidytapr19
-
-UI =https://ej2.syncfusion.com/home/aspnetcore.html?_ga=2.32571134.1937615471.1636360063-1557278759.1636360063
    
 
 
